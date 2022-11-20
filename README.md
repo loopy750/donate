@@ -10,6 +10,8 @@
 
 > ADA: `addr1qxvplwmmza0z8rw9akqdfucx5g7p7mr65x2g3drhv0ufz56da4evagc0yxqlvg5pg2ztdnphw2sw85vh9lr4szt6tr6sckuf0u`
 
+> KAS: `kaspa:qpamj9vkju7a6ux3c54dy09ucjzzk2dkq8qeufalhgh2z34qckkyu7vp9vw7c`
+
 > DOGE: `DKAjdw1KFVcKnwaARZwkcfztQoQyW9jQk4`
 
 > RVN: `RUtk6rKNbWoDBZDGADYArPmMbHNwDx4KtT`
