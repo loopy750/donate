@@ -14,7 +14,7 @@
 
 > DOGE: `DKAjdw1KFVcKnwaARZwkcfztQoQyW9jQk4`
 
-> RVN: `RP4Uuvq8oovu1YoVHSNxqoMJ7uWYyXxkAX`
+> RVN: `RJvqLDR1VNuMkd7NzXFZc1taU2t7318AEP`
 
 > VTC: `Vrfkcg1XRjt73NfXRKrsj7wAAwKKGm6Y3t`
 
